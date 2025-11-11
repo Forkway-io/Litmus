@@ -7,6 +7,10 @@
     "123123": {
       "message_prefix": "ыаыавыаы",
       "hash": "974ded14fcd5b826f49063ff6bada1c7"
+    },
+    "123": {
+      "message_prefix": "sdfsdfsdfsd",
+      "hash": "bd9abe38537ecd5f65f15352263acea1"
     }
   }
 }
