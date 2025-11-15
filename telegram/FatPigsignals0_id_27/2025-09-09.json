@@ -1,0 +1,53 @@
+{
+  "2025-09-09": {
+    "2667": {
+      "id": 7414,
+      "external_id": "2667",
+      "message_preview": "Binance Futures, BingX Futures, Bitget Futures, By...tures\n#APE/USDT Stop Target Hit ⛔\nLoss: 47.3308% 📉",
+      "hash": "6b18bd2a43ee3074636a56af0f87b0d7",
+      "published_at": "2025-09-09 11:37:15+00:00"
+    },
+    "2666": {
+      "id": 7416,
+      "external_id": "2666",
+      "message_preview": "Binance, BingX Spot, Bitget Spot, ByBit Spot, KuCo...2 ✅\nProfit: 2.4291% 📈\nPeriod: 15 Hours 3 Minutes ⏰",
+      "hash": "8645e111deeb4813638b72a8f9e3d7aa",
+      "published_at": "2025-09-09 08:31:25+00:00"
+    },
+    "2665": {
+      "id": 7422,
+      "external_id": "2665",
+      "message_preview": "BingX Spot, Bitget Spot, ByBit Spot, KuCoin, OKX\n#...t: 8.3924% 📈\nPeriod: 10 Days 22 Hours 48 Minutes ⏰",
+      "hash": "f1c7ec046b639ad971a491e77bdd95d1",
+      "published_at": "2025-09-09 06:33:24+00:00"
+    },
+    "2664": {
+      "id": 7420,
+      "external_id": "2664",
+      "message_preview": "Binance Futures, BingX Futures, Bitget Futures, By...try targets achieved\nAverage Entry Price: 0.5948 💵",
+      "hash": "42e6220f9dad3c41de6160e9d6054045",
+      "published_at": "2025-09-09 04:53:21+00:00"
+    },
+    "2663": {
+      "id": 7421,
+      "external_id": "2663",
+      "message_preview": "Coinbase Spot\n#QNT/USDT Cancelled ❌\nTarget achieve...d ❌\nTarget achieved before entering the entry zone",
+      "hash": "91ebdd6268d267ca32d125443768b4a2",
+      "published_at": "2025-09-09 04:08:08+00:00"
+    },
+    "2662": {
+      "id": 7423,
+      "external_id": "2662",
+      "message_preview": "Binance, BingX Spot, Bitget Spot, ByBit Spot, KuCo... ✅\nProfit: 1.9231% 📈\nPeriod: 10 Hours 36 Minutes ⏰",
+      "hash": "128b9d4a97bcb6693cce853e9f436555",
+      "published_at": "2025-09-09 04:04:08+00:00"
+    },
+    "2661": {
+      "id": 7432,
+      "external_id": "2661",
+      "message_preview": "BingX Spot, Bitget Spot, ByBit Spot, KuCoin, OKX\n#...t: 5.8314% 📈\nPeriod: 10 Days 16 Hours 24 Minutes ⏰",
+      "hash": "c556a50f632715ac2d3d07f87509a051",
+      "published_at": "2025-09-09 00:09:21+00:00"
+    }
+  }
+}

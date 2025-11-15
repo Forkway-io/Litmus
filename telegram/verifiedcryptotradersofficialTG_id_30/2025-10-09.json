@@ -1,0 +1,25 @@
+{
+  "2025-10-09": {
+    "2239": {
+      "id": 6586,
+      "external_id": "2239",
+      "message_preview": "#ETHUSDT UPDATE\n\nETH is facing rejection at the ho...e, while a breakout could trigger a bullish rally.",
+      "hash": "6ed3b40415d02a14b327db737b97d1c5",
+      "published_at": "2025-10-09 18:01:57+00:00"
+    },
+    "2238": {
+      "id": 6582,
+      "external_id": "2238",
+      "message_preview": "#STROJUSDT UPDATE\n\nSTORJ is rebounding from the ho...kout from this level could ignite a bullish rally.",
+      "hash": "36133ccf7d160d4379b39bf36979ff32",
+      "published_at": "2025-10-09 14:09:09+00:00"
+    },
+    "2237": {
+      "id": 6574,
+      "external_id": "2237",
+      "message_preview": "#BTCUSDT UPDATE\n\nBitcoin is rejecting the resistan...t a rebound from this level is still on the table.",
+      "hash": "1891a3cd3f2bac79503ef8f3df258b40",
+      "published_at": "2025-10-09 08:58:05+00:00"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "2025-06-19": {
+    "2338": {
+      "id": 7967,
+      "external_id": "2338",
+      "message_preview": "🔴 Long\n\nSXPUSDT \n\nEntry : \n\n1) 0.1794\n2) 0.1740\n\nT... 0.1916\n\n🛑Stop : 0.1680\n\nLeverage : 10x [Isolated]",
+      "hash": "5a7c77b2fbaee791e52d33cd2b6fac25",
+      "published_at": "2025-06-19 16:46:05+00:00"
+    },
+    "2337": {
+      "id": 7974,
+      "external_id": "2337",
+      "message_preview": "Binance Futures, BingX Futures, Bitget Futures, By...#TRX/USDT Entry 1 ✅\nAverage Entry Price: 0.27356 💵",
+      "hash": "ccda2828ac20b15b9a19b58508334f85",
+      "published_at": "2025-06-19 13:16:59+00:00"
+    },
+    "2336": {
+      "id": 7969,
+      "external_id": "2336",
+      "message_preview": "Binance Futures, KuCoin Futures\n#DASH/USDT Take-Pr... ✅\nProfit: 5.5753% 📈\nPeriod: 10 Hours 51 Minutes ⏰",
+      "hash": "637d6bf02c4e4b0ee87dd775cd12d693",
+      "published_at": "2025-06-19 13:09:21+00:00"
+    },
+    "2335": {
+      "id": 7966,
+      "external_id": "2335",
+      "message_preview": "ByBit USDT\n#DASH/USDT Cancelled ❌\nTarget achieved ...d ❌\nTarget achieved before entering the entry zone",
+      "hash": "c282443cc7570dab4d5f90894ee380f5",
+      "published_at": "2025-06-19 13:06:53+00:00"
+    },
+    "2334": {
+      "id": 7978,
+      "external_id": "2334",
+      "message_preview": "Binance Futures, KuCoin Futures\n#DASH/USDT Entry 1...\n#DASH/USDT Entry 1 ✅\nAverage Entry Price: 19.73 💵",
+      "hash": "954941a01121e54d85e181f96082312c",
+      "published_at": "2025-06-19 13:02:36+00:00"
+    },
+    "2333": {
+      "id": 7976,
+      "external_id": "2333",
+      "message_preview": "🔴 Long\n\nDASHUSDT \n\nEntry : \n\n1) 19.73\n2) 19.13\n\nTa...4) 21.07\n\n🛑Stop : 18.48\n\nLeverage : 10x [Isolated]",
+      "hash": "e7bffdfa58c32463d7b56e6c7cc40be8",
+      "published_at": "2025-06-19 13:02:26+00:00"
+    },
+    "2332": {
+      "id": 7968,
+      "external_id": "2332",
+      "message_preview": "🔴 Long\n\nTRXUSDT \n\nEntry : \n\n1) 0.27356\n2) 0.26535\n....29227\n\n🛑Stop : 0.25632\n\nLeverage : 10x [Isolated]",
+      "hash": "ec58ec3990c4cae8a70eed9697f035a9",
+      "published_at": "2025-06-19 13:02:26+00:00"
+    }
+  }
+}

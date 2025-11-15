@@ -1,0 +1,32 @@
+{
+  "2025-08-29": {
+    "2040": {
+      "id": 6832,
+      "external_id": "2040",
+      "message_preview": "#BTCUSDT UPDATE\n\nBitcoin is facing rejection from ...nd could trigger further correction in the market.",
+      "hash": "7bda4287937febca16370bf985f61810",
+      "published_at": "2025-08-29 18:51:08+00:00"
+    },
+    "2039": {
+      "id": 6829,
+      "external_id": "2039",
+      "message_preview": "#SOLUSDT UPDATE\n\nSOL has broken out of the ascendi...e back into the pattern for further consolidation.",
+      "hash": "b57ac8637ec7768a0281abd3b058bc6c",
+      "published_at": "2025-08-29 11:42:55+00:00"
+    },
+    "2038": {
+      "id": 6830,
+      "external_id": "2038",
+      "message_preview": "Crypto Fear and Greed Chart.\n\nVerified Crypto Trad...o Fear and Greed Chart.\n\nVerified Crypto Traders ®",
+      "hash": "08f8d39d8313808c26aefaa6f29b1b77",
+      "published_at": "2025-08-29 07:24:09+00:00"
+    },
+    "2037": {
+      "id": 6828,
+      "external_id": "2037",
+      "message_preview": "JUST IN: 🇺🇸 CFTC to issue clarification allowing U...ng US users to trade on offshore crypto exchanges.",
+      "hash": "87812104c5b7039e28719a0a675ab057",
+      "published_at": "2025-08-29 06:31:36+00:00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "2025-07-01": {
+    "2466": {
+      "id": 7771,
+      "external_id": "2466",
+      "message_preview": "Binance Futures, ByBit USDT, KuCoin Futures\n#ZEC/U...loss after reaching take profit ⚠\nLoss: 23.5362% 📉",
+      "hash": "c19b10e66ea6dddc688e523f295f25e0",
+      "published_at": "2025-07-01 15:41:52+00:00"
+    },
+    "2465": {
+      "id": 7779,
+      "external_id": "2465",
+      "message_preview": "Binance Futures, BingX Futures, Bitget Futures, By... target 1 ✅\nProfit: 5.6604% 📈\nPeriod: 14 Minutes ⏰",
+      "hash": "da7a7e1438e34b022214f89ab1575c82",
+      "published_at": "2025-07-01 12:57:38+00:00"
+    },
+    "2464": {
+      "id": 7766,
+      "external_id": "2464",
+      "message_preview": "Binance Futures, BingX Futures, Bitget Futures, By...#SPK/USDT Entry 1 ✅\nAverage Entry Price: 0.03710 💵",
+      "hash": "d61f5e03b0550618e2d014abfaa10e20",
+      "published_at": "2025-07-01 12:46:30+00:00"
+    },
+    "2463": {
+      "id": 7767,
+      "external_id": "2463",
+      "message_preview": "🔴 Long\n\nSPKUSDT \n\nEntry : \n\n1) 0.03710\n2) 0.03598\n....03963\n\n🛑Stop : 0.03476\n\nLeverage : 10x [Isolated]",
+      "hash": "ee6e27c01e9d746cd40a5ace4160d3ab",
+      "published_at": "2025-07-01 12:43:31+00:00"
+    }
+  }
+}

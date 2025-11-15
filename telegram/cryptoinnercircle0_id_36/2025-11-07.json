@@ -1,0 +1,18 @@
+{
+  "2025-11-07": {
+    "3763": {
+      "id": 17875,
+      "external_id": "3763",
+      "message_preview": "📍Coin : #1000SHIB/USDT\n\n🟢 LONG \n\n👉 Entry: 0.009370....009846\n🎯 Target 6: 0.009945\n\n❌ StopLoss: 0.008800",
+      "hash": "e032f4ad169b46a2da6e0f29015f44a2",
+      "published_at": "2025-11-07 08:13:23+00:00"
+    },
+    "3762": {
+      "id": 17876,
+      "external_id": "3762",
+      "message_preview": "📍Coin : #BTCDOM/USDT\n\n🔴 SHORT \n\n👉 Entry: 4585 - 46... Target 5: 4264\n🎯 Target 6: 4222\n\n❌ StopLoss: 4860",
+      "hash": "c6579a9f879d5889f8cb55b0c5d1e771",
+      "published_at": "2025-11-07 03:36:44+00:00"
+    }
+  }
+}

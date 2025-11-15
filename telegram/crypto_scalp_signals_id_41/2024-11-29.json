@@ -1,0 +1,32 @@
+{
+  "2024-11-29": {
+    "4229": {
+      "id": 3653,
+      "external_id": "4229",
+      "message_preview": "#GMT/USDT Manually Cancelled...#GMT/USDT Manually Cancelled",
+      "hash": "afc172edef989924cdee86e7dd760c5d",
+      "published_at": "2024-11-29 15:16:14+00:00"
+    },
+    "4228": {
+      "id": 3654,
+      "external_id": "4228",
+      "message_preview": "Binance Futures\n#GMT/USDT All entry targets achiev...ry targets achieved\nAverage Entry Price: 0.21730 💵",
+      "hash": "552d5ff66bed4d32f8922798c7256698",
+      "published_at": "2024-11-29 15:03:31+00:00"
+    },
+    "4227": {
+      "id": 3655,
+      "external_id": "4227",
+      "message_preview": "Binance Futures\n#GMT/USDT Entry 1 ✅\nAverage Entry ...#GMT/USDT Entry 1 ✅\nAverage Entry Price: 0.21550 💵",
+      "hash": "a2f63eefb050126eb8c59d5a5a727928",
+      "published_at": "2024-11-29 13:29:02+00:00"
+    },
+    "4226": {
+      "id": 3656,
+      "external_id": "4226",
+      "message_preview": "⚡️⚡️ #GMT/USDT ⚡️⚡️\nExchanges: Binance Futures\nSig...11\n2) 0.20850\n3) 0.20250\n\nStop Targets:\n1) 0.22160",
+      "hash": "3e27b3a379db240ebddc5f1daaf48882",
+      "published_at": "2024-11-29 13:24:28+00:00"
+    }
+  }
+}

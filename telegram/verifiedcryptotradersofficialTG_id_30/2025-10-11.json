@@ -1,0 +1,25 @@
+{
+  "2025-10-11": {
+    "2249": {
+      "id": 6580,
+      "external_id": "2249",
+      "message_preview": "JUST IN: Binance CEO Richard Teng says the company...\"\n\n\"I'm truly sorry to everyone who was impacted.\"",
+      "hash": "823e964a4c1ec4b0625e2ad466888b15",
+      "published_at": "2025-10-11 20:13:35+00:00"
+    },
+    "2248": {
+      "id": 6573,
+      "external_id": "2248",
+      "message_preview": "#BTCUSDT UPDATE\n\nBitcoin is currently consolidatin...or breakdown to confirm the next directional move.",
+      "hash": "f4c0678dddd763bff00ffefb522d4f29",
+      "published_at": "2025-10-11 10:14:09+00:00"
+    },
+    "2247": {
+      "id": 6571,
+      "external_id": "2247",
+      "message_preview": "JUST IN: Crypto market records largest single-day ...s largest single-day liquidation event in history.",
+      "hash": "ff7a352a29f27e24177e1fd59d604aaf",
+      "published_at": "2025-10-11 08:50:46+00:00"
+    }
+  }
+}

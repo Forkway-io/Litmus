@@ -1,0 +1,46 @@
+{
+  "2025-03-03": {
+    "4766": {
+      "id": 3500,
+      "external_id": "4766",
+      "message_preview": "#BTC/USDT Manually Cancelled...#BTC/USDT Manually Cancelled",
+      "hash": "bb3ea19b8ec4341c625cfbae596cb7f6",
+      "published_at": "2025-03-03 13:01:42+00:00"
+    },
+    "4765": {
+      "id": 3501,
+      "external_id": "4765",
+      "message_preview": "Binance Futures, Bitget Futures, ByBit USDT, KuCoi...ry targets achieved\nAverage Entry Price: 92366.5 💵",
+      "hash": "55b04ad7f8da16b070f642ea06abf469",
+      "published_at": "2025-03-03 11:10:00+00:00"
+    },
+    "4764": {
+      "id": 3502,
+      "external_id": "4764",
+      "message_preview": "Binance Futures, Bitget Futures, ByBit USDT, KuCoi...s\n#BTC/USDT Entry 1 ✅\nAverage Entry Price: 91900 💵",
+      "hash": "45237e8fe26d962b8c523f01b15ba3a0",
+      "published_at": "2025-03-03 09:58:37+00:00"
+    },
+    "4763": {
+      "id": 3503,
+      "external_id": "4763",
+      "message_preview": "⚡⚡ #BTC/USDT ⚡⚡\nExchanges: OKX Futures, KuCoin Fut...ation:\nStop: Moving Target -\n  Trigger: Target (1)",
+      "hash": "f485d2fd7026b75d4507d7ebe391bc7a",
+      "published_at": "2025-03-03 09:58:34+00:00"
+    },
+    "4762": {
+      "id": 3504,
+      "external_id": "4762",
+      "message_preview": "Binance Futures, Bitget Futures, ByBit USDT, KuCoi...tures\n#DOT/USDT Stop Target Hit ⛔\nLoss: 27.2639% 📉",
+      "hash": "c5069c3fd80d4ff5c3543b764ad3f600",
+      "published_at": "2025-03-03 06:40:15+00:00"
+    },
+    "4761": {
+      "id": 3505,
+      "external_id": "4761",
+      "message_preview": "Binance Futures, Bitget Futures, ByBit USDT, KuCoi...ntry targets achieved\nAverage Entry Price: 5.135 💵",
+      "hash": "1bbe17decda03820d6dfc0a0e54dafe2",
+      "published_at": "2025-03-03 02:05:15+00:00"
+    }
+  }
+}

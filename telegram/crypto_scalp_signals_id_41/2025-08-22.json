@@ -1,0 +1,18 @@
+{
+  "2025-08-22": {
+    "5294": {
+      "id": 3271,
+      "external_id": "5294",
+      "message_preview": "#AVAX/USDT Manually Closed...#AVAX/USDT Manually Closed",
+      "hash": "61e048d0dfa0656dbe345629756e250a",
+      "published_at": "2025-08-22 10:13:39+00:00"
+    },
+    "5292": {
+      "id": 3272,
+      "external_id": "5292",
+      "message_preview": "Closing the trade on entry price. Waiting for sign...y price. Waiting for signals after big news today.",
+      "hash": "442fafec78740177b9cc7c65117be4cd",
+      "published_at": "2025-08-22 10:13:27+00:00"
+    }
+  }
+}

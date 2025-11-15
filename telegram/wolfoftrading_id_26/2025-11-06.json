@@ -1,0 +1,32 @@
+{
+  "2025-11-06": {
+    "5651": {
+      "id": 17783,
+      "external_id": "5651",
+      "message_preview": "Coin: $CHZUSDT Long\nLeverage: Isolated x10\nEntry: ... 0.03082 - 0.03281 - 0.03562 - 0.04002\nSL: 0.02734",
+      "hash": "22d5393b40c6c5944399c5ac8df2fcca",
+      "published_at": "2025-11-06 19:06:00+00:00"
+    },
+    "5650": {
+      "id": 17784,
+      "external_id": "5650",
+      "message_preview": "$BTCUSDT Update: 2h\n\nCurrently consolidating downw...ld be expecting to see a retest around 104K - 106K",
+      "hash": "91149ab1a27a17baf85181aab55457a7",
+      "published_at": "2025-11-06 19:03:16+00:00"
+    },
+    "5649": {
+      "id": 17739,
+      "external_id": "5649",
+      "message_preview": "$CHZUSDT Update: 2h,\n\nIf we manage to break from a...T to have the access to our full signals sectionn.",
+      "hash": "362b656436c8307d34ab627aa31d231a",
+      "published_at": "2025-11-06 13:24:15+00:00"
+    },
+    "5648": {
+      "id": 17704,
+      "external_id": "5648",
+      "message_preview": "🚨U.S. GOVERNMENT SHUTDOWN HITS RECORD 36 DAYS\n\nThi...his year, but final approval unlikely before 2026.",
+      "hash": "21d273cd313d5be9ae4185b3139922b4",
+      "published_at": "2025-11-06 10:41:55+00:00"
+    }
+  }
+}

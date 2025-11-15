@@ -1,0 +1,25 @@
+{
+  "2024-11-21": {
+    "118": {
+      "id": 2816,
+      "external_id": "118",
+      "message_preview": "📍Coin : #UNI/USDT\n\n🟢 LONG \n\n👉 Entry: 9.2500 - 9.00...t 5: 9.7000\n🎯 Target 6: 9.7900\n\n❌ StopLoss: 8.8000",
+      "hash": "f98c2023bbecb141abc46112ee0c09b6",
+      "published_at": "2024-11-21 13:18:44+00:00"
+    },
+    "117": {
+      "id": 2815,
+      "external_id": "117",
+      "message_preview": "💰 JUST IN : Bitcoin hits $97,000...💰 JUST IN : Bitcoin hits $97,000",
+      "hash": "c5f2622442368d19c04676b0c9c137bb",
+      "published_at": "2024-11-21 10:36:01+00:00"
+    },
+    "116": {
+      "id": 2814,
+      "external_id": "116",
+      "message_preview": "📍Coin : #DOGE/USDT\n\n🔴 SHORT \n\n👉 Entry: 0.3738 - 0....t 5: 0.3551\n🎯 Target 6: 0.3493\n\n❌ StopLoss: 0.3970",
+      "hash": "a465173be2e52d6b26fd62e3bd5eeb35",
+      "published_at": "2024-11-21 03:41:06+00:00"
+    }
+  }
+}

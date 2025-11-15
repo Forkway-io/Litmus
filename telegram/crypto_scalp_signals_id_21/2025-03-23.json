@@ -1,0 +1,18 @@
+{
+  "2025-03-23": {
+    "4873": {
+      "id": 10214,
+      "external_id": "4873",
+      "message_preview": "Binance Futures\n#CHR/USDT Closed at trailing stopl... at trailing stoploss after reaching take profit ⚠",
+      "hash": "1967a5d1fd27ae46ce19763800338018",
+      "published_at": "2025-03-23 17:44:19+00:00"
+    },
+    "4872": {
+      "id": 10219,
+      "external_id": "4872",
+      "message_preview": "Binance Futures\n#CHR/USDT Take-Profit target 1 ✅\nP...✅\nProfit: 16.6052% 📈\nPeriod: 23 Hours 43 Minutes ⏰",
+      "hash": "4b9d64db897e22fcbbe7f2b63c0da557",
+      "published_at": "2025-03-23 10:03:17+00:00"
+    }
+  }
+}

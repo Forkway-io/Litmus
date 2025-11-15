@@ -1,0 +1,39 @@
+{
+  "2024-12-17": {
+    "4431": {
+      "id": 10536,
+      "external_id": "4431",
+      "message_preview": "Binance Futures\n#NEAR/USDT Closed at trailing stop... at trailing stoploss after reaching take profit ⚠",
+      "hash": "630fe9619521751d638424e82773cf39",
+      "published_at": "2024-12-17 14:35:31+00:00"
+    },
+    "4430": {
+      "id": 10543,
+      "external_id": "4430",
+      "message_preview": "Binance Futures\n#NEAR/USDT Take-Profit target 2 ✅\n... ✅\nProfit: 26.8047% 📈\nPeriod: 2 Hours 45 Minutes ⏰",
+      "hash": "74f755a20fb40dbd306793eea11d4bf4",
+      "published_at": "2024-12-17 13:19:41+00:00"
+    },
+    "4429": {
+      "id": 10539,
+      "external_id": "4429",
+      "message_preview": "Binance Futures\n#NEAR/USDT Take-Profit target 1 ✅\n...target 1 ✅\nProfit: 18.1065% 📈\nPeriod: 59 Minutes ⏰",
+      "hash": "cd9f73fc07d619a3269ece0595b6f902",
+      "published_at": "2024-12-17 11:33:21+00:00"
+    },
+    "4428": {
+      "id": 10538,
+      "external_id": "4428",
+      "message_preview": "Binance Futures\n#NEAR/USDT Entry 1 ✅\nAverage Entry...s\n#NEAR/USDT Entry 1 ✅\nAverage Entry Price: 6.76 💵",
+      "hash": "13e561a96f5ca66dc526cd95f337fbfd",
+      "published_at": "2024-12-17 10:33:56+00:00"
+    },
+    "4427": {
+      "id": 10546,
+      "external_id": "4427",
+      "message_preview": "⚡️⚡️ #NEAR/USDT ⚡️⚡️\nExchanges: Binance Futures\nSi...ation:\nStop: Moving Target -\n  Trigger: Target (1)",
+      "hash": "231025f1d6ad11bfbcfcbe735e578548",
+      "published_at": "2024-12-17 10:33:50+00:00"
+    }
+  }
+}

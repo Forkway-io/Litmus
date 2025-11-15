@@ -1,0 +1,39 @@
+{
+  "2021-06-09": {
+    "541": {
+      "id": 1179,
+      "external_id": "541",
+      "message_preview": "❌ High Risk ❌\n\nBinance Futures\nLONG/BUY #BLZ/USDT ... 2245\nLeverage: 10x\nTime: 3 hours\nStop Loss:  2065",
+      "hash": "9ca151696e55b01fbd0b86697783ee90",
+      "published_at": "2021-06-09 20:05:20+00:00"
+    },
+    "537": {
+      "id": 1178,
+      "external_id": "537",
+      "message_preview": "Max profit Tp2 ✅...Max profit Tp2 ✅",
+      "hash": "91db06e2c979641837231b4b0728941c",
+      "published_at": "2021-06-09 16:12:31+00:00"
+    },
+    "536": {
+      "id": 1177,
+      "external_id": "536",
+      "message_preview": "#BTC will reject between 35500 - 35700\nso if you h... have any long position, please take care of it.❗️",
+      "hash": "480ea66bb9070c4a17b1fd2d00221377",
+      "published_at": "2021-06-09 14:52:40+00:00"
+    },
+    "534": {
+      "id": 1176,
+      "external_id": "534",
+      "message_preview": "Tp1 Done ✅...Tp1 Done ✅",
+      "hash": "3e1bcd549b6fe22d5c8d62e40683225a",
+      "published_at": "2021-06-09 13:23:21+00:00"
+    },
+    "533": {
+      "id": 1175,
+      "external_id": "533",
+      "message_preview": "Binance Futures\nSHORT/SELL #HNT/USDT ️  \nSell At: ... price reach 13.3 then trail stop with 3% callback",
+      "hash": "b71d452cb2a22c245a7ce208b4665f9e",
+      "published_at": "2021-06-09 12:18:40+00:00"
+    }
+  }
+}

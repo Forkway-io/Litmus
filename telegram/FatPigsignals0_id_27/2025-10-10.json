@@ -1,0 +1,25 @@
+{
+  "2025-10-10": {
+    "2677": {
+      "id": 7429,
+      "external_id": "2677",
+      "message_preview": "Binance, BingX Spot, Bitget Spot, ByBit Spot, KuCo...ploss after reaching take profit ⚠\nLoss: 8.0263% 📉",
+      "hash": "ebd12ce02e779047ee2f65eb30c6fc3f",
+      "published_at": "2025-10-10 23:18:41+00:00"
+    },
+    "2676": {
+      "id": 7427,
+      "external_id": "2676",
+      "message_preview": "Binance, BingX Spot, Bitget Spot, ByBit Spot, Coin...ploss after reaching take profit ⚠\nLoss: 4.4763% 📉",
+      "hash": "fd91a168979b29b1642d542543271e51",
+      "published_at": "2025-10-10 23:17:26+00:00"
+    },
+    "2675": {
+      "id": 7410,
+      "external_id": "2675",
+      "message_preview": "BingX Spot, Bitget Spot, ByBit Spot, Huobi.pro, Ku...loss after reaching take profit ⚠\nLoss: 16.9824% 📉",
+      "hash": "a3f5c7ac7b779d0843e57eb7dcc299cf",
+      "published_at": "2025-10-10 23:14:26+00:00"
+    }
+  }
+}

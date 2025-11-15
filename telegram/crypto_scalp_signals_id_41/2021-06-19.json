@@ -1,0 +1,32 @@
+{
+  "2021-06-19": {
+    "583": {
+      "id": 1199,
+      "external_id": "583",
+      "message_preview": "Binance Futures\nLONG/BUY #TRB/USDT ️  \nBUY At:  44... 46.9\nLeverage: 6x\nTime: 10hours\nStop Loss:  42.36",
+      "hash": "65c83e6b85473459af24ac28458ed97f",
+      "published_at": "2021-06-19 12:32:15+00:00"
+    },
+    "581": {
+      "id": 2194,
+      "external_id": "581",
+      "message_preview": "This is an Ad and does not related to us 👇...This is an Ad and does not related to us 👇",
+      "hash": "d4f61e76dae432ee16edbce96c7b0049",
+      "published_at": "2021-06-19 10:34:09+00:00"
+    },
+    "580": {
+      "id": 1198,
+      "external_id": "580",
+      "message_preview": "Binance SPOT\nBUY #TCT/USDT ️  \nBUY At:  0.0295\nTp ...31  0.032  0.0345\nTime: 2 weeks\nStop Loss:  0.0265",
+      "hash": "fc0c1ca238e418e85da956ebe5994192",
+      "published_at": "2021-06-19 08:39:54+00:00"
+    },
+    "579": {
+      "id": 1197,
+      "external_id": "579",
+      "message_preview": "Binance SPOT\nBUY #XTZ/USDT ️  \nBUY At:  3.14\nTp : ...3.14\nTp : 3.45 3.90\nTime: 2 weeks\nStop Loss:  2.90",
+      "hash": "2ac4fbda5044ba2d22cff0a6521d7901",
+      "published_at": "2021-06-19 08:37:29+00:00"
+    }
+  }
+}
