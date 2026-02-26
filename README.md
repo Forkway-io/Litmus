@@ -1,121 +1,126 @@
-## Litmus 
-<img width="108" height="103" alt="Снимок экрана 2025-11-10 в 13 58 40" src="https://github.com/user-attachments/assets/4345addb-13ec-4a7c-99c2-4787dc46c628" />
+Litmus — Post Export Repository (English Translation)
 
-# Репозиторий экспорта постов
+Post Export Repository
 
-Этот репозиторий содержит автоматически экспортированные посты из различных источников.
+This repository contains automatically exported posts from various sources.
 
-## Структура репозитория
+Repository Structure
 
-Репозиторий организован по следующей структуре:
-```
-[корневая директория]/
-├── [тип_источника]/
-│ ├── [безопасное_имя_источника_id_[ID]]/
-│ │ ├── YYYY-MM.csv
-│ │ ├── YYYY-MM.csv
-│ │ └── ...
-│ ├── [другой_источник_id_[ID]]/
-│ │ ├── YYYY-MM.csv
-│ │ └── ...
-│ └── ...
+The repository is organized as follows:
+
+[root directory]/
+├── [source_type]/
+│   ├── [safe_source_name_id_[ID]]/
+│   │   ├── YYYY-MM.csv
+│   │   ├── YYYY-MM.csv
+│   │   └── ...
+│   ├── [another_source_id_[ID]]/
+│   │   ├── YYYY-MM.csv
+│   │   └── ...
+│   └── ...
 └── README.md
-```
 
-### Компоненты структуры:
+Structure Components
 
-- **Тип источника** - категория источника (например: telegram, twitter, rss)
-- **Безопасное имя источника** - имя источника, очищенное от специальных символов
-- **ID источника** - уникальный идентификатор источника в системе
-- **Файлы месяцев** - CSV файлы, содержащие посты за конкретный месяц
+Source type — A category of the source (e.g., telegram, twitter, rss).
+Safe source name — The source name sanitized from special characters.
+Source ID — A unique source identifier in the system.
+Monthly files — CSV files containing posts for a specific month.
 
-## Формат CSV файлов
+CSV File Format
 
-Каждый CSV файл содержит посты за один месяц и имеет следующие колонки:
+Each CSV file contains posts for one month and has the following columns:
+Column
+Description
+Format
+id
+Internal post ID in the system
+Number
+external_id
+External post ID from the source
+String
+message_preview
+Message preview (first 50 + ... + last 50 characters)
+String
+hash
+MD5 hash of the full message
+String (32 characters)
+published_at
+Post publication time
+ISO format (2023-10-01T12:30:45)
+created_at
+Record creation time in the system
+ISO format
+source_id
+Source ID
+Number
+source_name
+Source name
+String
 
-| Колонка | Описание | Формат |
-|---------|-----------|---------|
-| `id` | Внутренний ID поста в системе | Число |
-| `external_id` | Внешний ID поста из источника | Строка |
-| `message_preview` | Превью сообщения (первые 50 + ... + последние 50 символов) | Строка |
-| `hash` | MD5 хэш полного сообщения | Строка (32 символа) |
-| `published_at` | Время публикации поста | ISO формат (2023-10-01T12:30:45) |
-| `created_at` | Время создания записи в системе | ISO формат |
-| `source_id` | ID источника | Число |
-| `source_name` | Название источника | Строка |
 
-## Как проверить конкретный канал
+How to Check a Specific Channel
 
-### 1. Найдите канал по имени
+1. Find the channel by name
+Go to the directory for the relevant source type and locate the folder with the channel name. The folder name is generated as follows:
+The original channel name is sanitized from special characters
+Repeated underscores are collapsed
+"id[ID]" is appended at the end
+For example, the channel "My Telegram Channel!" will be represented as: My_Telegram_Channel_id_123.
 
-Перейдите в директорию соответствующего типа источника и найдите папку с именем канала. Имя папки формируется как:
+2. Browse the post history
+Inside the channel folder, find monthly CSV files. Each file corresponds to one month and contains all posts published in that month.
 
-- Исходное имя канала очищается от специальных символов
-- Повторяющиеся подчеркивания сжимаются
-- В конце добавляется "_id_[ID]"
+3. Check a specific month
+Open the CSV file for the desired month to view all posts published during that period.
 
-Например, канал "My Telegram Channel!" будет представлен как:
-`My_Telegram_Channel_id_123`
 
-### 2. Просмотрите историю постов
+How to Check a Post’s Content
 
-В папке канала найдите CSV файлы по месяцам. Каждый файл соответствует одному месяцу и содержит все посты, опубликованные в этот месяц.
+Using message_preview
+Each post includes a message_preview field that contains:
+The first 50 characters of the message
+Ellipsis
+The last 50 characters of the message
+This makes it possible to quickly assess the content without reading the full text.
 
-### 3. Проверьте конкретный месяц
+Using the hash
+The hash field contains the MD5 hash of the full message. This allows you to:
+Verify message integrity
+Detect changes in content
+Compare whether posts are identical
 
-Откройте CSV файл за нужный месяц для просмотра всех постов, опубликованных в этот период.
+Using timestamps
+The published_at field contains the exact publication time in ISO format.
 
-## Как проверить содержание поста
 
-### По message_preview
+Search Example
 
-В каждом посте есть поле "message_preview", которое содержит:
-- Первые 50 символов сообщения
-- Многоточие
-- Последние 50 символов сообщения
+Suppose you want to find posts from the Telegram channel "News Channel" for October 2023:
+1. Navigate to: telegram/News_Channel_id_456/
+2. Open the file: 2023-10.csv
+3. Review all posts for that month
 
-Это позволяет быстро оценить содержание поста без чтения полного текста.
+Working with CSV Files
 
-### По хэшу
+CSV files can be opened in:
+- Spreadsheet editors (Excel, Google Sheets, LibreOffice Calc)
+- Text editors with CSV support
+- Via the command line using csvkit, xsv, or similar utilities
 
-Поле "hash" содержит MD5 хэш полного сообщения. Это позволяет:
-- Проверить целостность сообщения
-- Обнаружить изменения в содержании
-- Сравнить идентичность постов
+Example: viewing via the command line
 
-### По временным меткам
-
-Поле "published_at" содержит точное время публикации поста в ISO формате.
-
-## Пример поиска
-
-Допустим, вы хотите найти посты из Telegram канала "News Channel" за октябрь 2023 года:
-
-1. Перейдите в: `telegram/News_Channel_id_456/`
-2. Откройте файл: `2023-10.csv`
-3. Просмотрите все посты за этот месяц
-
-## Работа с CSV файлами
-
-CSV файлы можно открывать в:
-- Табличных редакторах (Excel, Google Sheets, LibreOffice Calc)
-- Текстовых редакторах с поддержкой CSV
-- Через командную строку с помощью `csvkit`, `xsv` или аналогичных утилит
-
-### Пример просмотра через командную строку:
-```bash
-# Просмотр первых 10 строк
 head -n 10 2023-10.csv
 
-# Просмотр с форматированием столбцов
 column -t -s, 2023-10.csv | less -S
-```
 
-## Примечания
-- Все имена файлов и директорий используют безопасные символы
-- Месяцы представлены в формате YYYY-MM
-- Время представлено в UTC
-- Репозиторий автоматически обновляется при появлении новых постов
-- CSV файлы используют кодировку UTF-8
-- Разделитель - запятая
-- Первая строка содержит заголовки колонок
+Notes
+
+• All file and directory names use safe characters
+• Months are in YYYY-MM format
+• Time is in UTC
+• The repository is automatically updated when new posts appear
+• CSV files use UTF-8 encoding
+• Delimiter: comma
+• The first row contains headers
+
