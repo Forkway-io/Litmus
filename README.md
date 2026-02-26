@@ -7,7 +7,7 @@ This repository contains automatically exported posts from various sources.
 Repository Structure
 
 The repository is organized as follows:
-
+```
 [root directory]/
 ├── [source_type]/
 │   ├── [safe_source_name_id_[ID]]/
@@ -19,7 +19,7 @@ The repository is organized as follows:
 │   │   └── ...
 │   └── ...
 └── README.md
-
+```
 Structure Components
 
 Source type — A category of the source (e.g., telegram, twitter, rss).
