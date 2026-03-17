@@ -59,3 +59,39 @@ id,external_id,message_preview,hash,published_at,created_at,source_id,source_nam
 📈 Market Context
 • Struct...% per trade
 • Rule: Move SL to breakeven after TP2",08d8a348889302c434e8e4d40e94cdd2,2026-03-11T09:54:01+00:00,2026-03-11T16:23:32.157242+00:00,284,wolfxsignal_officials
+229630,38928,"TRADE: $FET/USDT
+🟩 LONG
+
+📈 Market Context
+• Struct...% per trade
+• Rule: Move SL to breakeven after TP2",5384d57db54d4aab9ca65c11731f4e9c,2026-03-17T12:47:42+00:00,2026-03-17T18:55:09.014864+00:00,284,wolfxsignal_officials
+229586,38927,"TRADE: $ME/USDT
+🟥 SHORT
+
+📈 Market Context
+• Struct...% per trade
+• Rule: Move SL to breakeven after TP2",1fdc0f64124962f25b10509ce1c6ea8f,2026-03-17T08:40:01+00:00,2026-03-17T18:55:06.930797+00:00,284,wolfxsignal_officials
+229593,38924,"TRADE: $GUN/USDT
+🟥 SHORT
+
+📈 Market Context
+• Struc...% per trade
+• Rule: Move SL to breakeven after TP2",161e12994ac74c0d07c6eb82c5de4295,2026-03-17T05:39:24+00:00,2026-03-17T18:55:07.658154+00:00,284,wolfxsignal_officials
+229603,38923,"TRADE: $G/USDT
+🟥 SHORT
+
+📈 Market Context
+• Structu...% per trade
+• Rule: Move SL to breakeven after TP2",899badb80b53aa079b6848437223b0f6,2026-03-17T01:16:13+00:00,2026-03-17T18:55:08.141456+00:00,284,wolfxsignal_officials
+229609,38921,"TRADE: $SIREN/USDT
+🟩 LONG
+
+📈 Market Context
+• Stru...% per trade
+• Rule: Move SL to breakeven after TP2",f39fd964cfcf4f7ada940f0e66ad01b3,2026-03-16T09:20:29+00:00,2026-03-17T18:55:08.331360+00:00,284,wolfxsignal_officials
+229597,38919,"TRADE: $AXS/USDT
+🟥 SHORT
+
+📈 Market Context
+• Struc...% per trade
+• Rule: Move SL to breakeven after TP2",5b8231b7dce20f71c12d87f885cabe40,2026-03-15T09:37:43+00:00,2026-03-17T18:55:07.864944+00:00,284,wolfxsignal_officials
